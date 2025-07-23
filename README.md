@@ -1,4 +1,4 @@
-# -network-user_manage-automation
+# network-user_manage-automation
 ## Multi-Vendor Network User Automation
 
 This is a demo project showcasing automation scripts for managing user accounts (create/delete) across various network devices (Cisco, HP, H3C, Brocade).
